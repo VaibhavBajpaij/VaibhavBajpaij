@@ -16,7 +16,7 @@
     <a href="https://www.linkedin.com/in/vaibhav-bajpai18"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://vaibhav-b.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="3D Portfolio" /></a>
     <a href="https://leetcode.com/u/MrYodha"><img src="https://img.shields.io/badge/LeetCode-357%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-    <a href="mailto:vaibhavbajpai.official800@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:vaibhavbajpaioffical800@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
 </div>
