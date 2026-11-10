@@ -51,13 +51,13 @@ I am a builder-minded **Software Engineer** and **Founder of [CB Dev Studio](htt
 | Project | Tech Stack | Highlights & Engineering Impact | Repository / Live |
 | :--- | :--- | :--- | :---: |
 | **Alarm Breaker** | Kotlin, Jetpack, Google ML Kit, Room, WorkManager | On-device ML Kit posture & rep-counting alarm utility (squats/push-ups) with Doze-resilient foreground services and sub-50ms MVVM UI. | [CB Dev Studio](https://cbdevstudio.in/) |
-| **Food Nutrition & Calorie AI** | Python, PyTorch, YOLOv8, OpenCV, FastAPI, Docker | Custom YOLOv8 food detection model (89.4% mAP@0.5) paired with OpenCV contour depth volumetric estimation served via <120ms FastAPI API. | [Source Code](https://github.com/VaibhavBajpaij/packege_Food_Scanner) |
+| **Food Intelligence AI Engine** | Python, PaddleOCR (PP-OCRv4), SQLite, Pytest, JSONSchema | Offline-first 8-stage packaged food OCR & nutrition engine indexing 85,000+ Open Food Facts, USDA & IFCT records; 130ms median latency, 29/29 tests passing. | [Source Code](https://github.com/VaibhavBajpaij/packege_Food_Scanner) |
 | **Enterprise RAG Knowledge Bot** | Python, FastAPI, LangChain, Vector DBs | Contextual document chunking, semantic vector similarity retrieval, and low-latency prompt synthesis pipeline. | [Source Code](https://github.com/VaibhavBajpaij/RAGbot_using-fastAPI) |
 | **AgriShield Platform** | React.js, Node.js, Express, MongoDB, AWS | Full-stack platform serving 500+ monthly active users with JWT RBAC APIs, AWS S3 storage, and digital payments. | [Source Code](https://github.com/VaibhavBajpaij/Agrishield) |
 | **AI Action Engine** | Dart, Flutter, Clean Architecture | Autonomous mobile task-execution engine connecting LLM function calling with native device actions. | [Source Code](https://github.com/VaibhavBajpaij/AI-Action-Engine) |
 | **Interactive 3D Portfolio** | React, TypeScript, Three.js, GSAP, Vite | WebGL 3D engineering portfolio featuring custom lighting shaders, physics animations, and Vite bundle optimization. | [Source Code](https://github.com/VaibhavBajpaij/Vaibhav_B) |
-| **LeetCode Solutions (357+)** | Python, Java, C++, GitHub Actions | Automated sync of 357+ accepted LeetCode submissions with runtime/memory telemetry and problem descriptions. | [Source Code](https://github.com/VaibhavBajpaij/leetcode-solutions) |
-| **DSA Patterns Hub** | Python, Pytest/CI, Algorithms | Pattern-organized interview solutions (Two Pointers, Sliding Window, Binary Search, Fast & Slow) with Big-O proofs & CI tests. | [Source Code](https://github.com/VaibhavBajpaij/dsa-patterns-hub) |
+| **LeetCode Solutions (357+)** | Java, Python, SQL, GitHub Actions | Automated sync of 357+ accepted LeetCode submissions (447 files) with runtime/memory telemetry and problem descriptions. | [Source Code](https://github.com/VaibhavBajpaij/leetcode-solutions) |
+| **DSA Patterns Hub** | Python, GitHub Actions CI, Algorithms | Pattern-organized interview solutions (Two Pointers, Sliding Window, Binary Search, Fast & Slow) with Big-O proofs & CI tests. | [Source Code](https://github.com/VaibhavBajpaij/dsa-patterns-hub) |
 
 ---
 
