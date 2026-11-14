@@ -2,7 +2,7 @@
 
   <!-- Dynamic Typing SVG Header -->
   <a href="https://github.com/VaibhavBajpaij">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Vaibhav+Bajpai+%F0%9F%91%8B;B.Tech+IT+(June+2026)+%7C+Software+%26+Mobile+Engineer;Flutter%2FDart+%C2%B7+Full-Stack+(React%2FTS%2FPython%2FJava)+%C2%B7+AI;Published+Google+Play+App+%2B+Merged+Grafana+OSS+PR" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=740&lines=Hi+there%2C+I'm+Vaibhav+Bajpai+%F0%9F%91%8B;B.Tech+IT+(June+2026)+%7C+Software+%26+Mobile+Engineer;Merged+OSS+Contributor+(OWASP+Foundation+%2B+Grafana+Labs);Flutter%2FDart+%C2%B7+Full-Stack+(React%2FTS%2FPython%2FJava)+%C2%B7+AI;Published+Google+Play+App+(Alarm+Breaker)" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -12,6 +12,7 @@
 
   <p align="center">
     <a href="https://play.google.com/store/apps/details?id=com.wakeforge.wakeforge"><img src="https://img.shields.io/badge/Google_Play-Alarm_Breaker-01875F?style=for-the-badge&logo=googleplay&logoColor=white" alt="Alarm Breaker on Google Play" /></a>
+    <a href="https://github.com/OWASP/owasp-ctf-in-a-box/pull/760"><img src="https://img.shields.io/badge/OWASP_OSS-PR_%23760_Merged-1B365D?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP Merged PR #760" /></a>
     <a href="https://github.com/grafana/grafana-canvas-panel/pull/133"><img src="https://img.shields.io/badge/Grafana_OSS-PR_%23133_Merged-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana Merged PR #133" /></a>
     <a href="https://www.linkedin.com/in/vaibhav-bajpai18"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://vaibhav-b.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="3D Portfolio" /></a>
@@ -28,7 +29,7 @@
 Software Engineer (**B.Tech IT, NIET Greater Noida — Graduated June 2026, CGPA 7.97 / 10.0**) focused on building tested mobile, full-stack web, and applied AI systems:
 
 - 📱 **Published Flagship Android App ([Alarm Breaker on Google Play](https://play.google.com/store/apps/details?id=com.wakeforge.wakeforge)):** Built with **Flutter / Dart** (Riverpod state management, **Drift SQLite** schema v5 migrations), **Google ML Kit Pose Detection**, **Firebase & Appwrite** social alarms, and native **Kotlin** Android foreground services, validated by **164 Dart unit and widget test suites**.
-- 🔧 **Open Source Contributor ([grafana/grafana-canvas-panel#133 — Merged](https://github.com/grafana/grafana-canvas-panel/pull/133)):** Resolved a TypeScript `instanceState.selected` null-dereference bug and guarded React 18 `StrictMode` RxJS teardown lifecycles across `7` files (`+306/-20`), verified with Jest unit tests and Playwright E2E specs.
+- 🌐 **Open-Source Production Engineer (OWASP Foundation & Grafana Labs — Merged):** Production-merged contributor to **OWASP Foundation** ([PR #760](https://github.com/OWASP/owasp-ctf-in-a-box/pull/760)) and **Grafana Labs** ([PR #133](https://github.com/grafana/grafana-canvas-panel/pull/133)), with active contributions in **Flutter (Google)**, **Taranis AI**, and **Cal.com**.
 - 🧠 **Ex-Post-Training LLM / AI Engineer Intern @ Ethara AI *(July 2026)*:** Contributed to post-training LLM evaluation harnesses, structured JSON verification rubrics, and asynchronous Python FastAPI evaluation workflows.
 - 🧩 **Algorithmic Problem Solving:** **357+ LeetCode problems synced** ([`leetcode-solutions`](https://github.com/VaibhavBajpaij/leetcode-solutions) · [`dsa-patterns-hub`](https://github.com/VaibhavBajpaij/dsa-patterns-hub)).
 
@@ -40,11 +41,28 @@ Software Engineer (**B.Tech IT, NIET Greater Noida — Graduated June 2026, CGPA
   - Built and published **Alarm Breaker: Challenge Alarm** live on **Google Play Store** (`com.wakeforge.wakeforge`) using **Flutter, Dart, Riverpod, Drift SQLite**, on-device **Google ML Kit Pose Detection**, **Firebase** (Auth, FCM, Crashlytics), **Appwrite**, and native **Kotlin** foreground/boot services.
   - Engineered 10 wake-up challenge modes (squat/push-up camera detection, unique-solution Sudoku, QR/barcode scanner, pedometer, math, shake, memory, logic) backed by **164 unit & widget test files** and an automated **GitHub Actions FFmpeg pipeline** ([`alarm-breaker-media`](https://github.com/VaibhavBajpaij/alarm-breaker-media)).
 
-- **Open Source Contributor** — **[grafana/grafana-canvas-panel](https://github.com/grafana/grafana-canvas-panel/pull/133)** *(Nov 2026 · Merged PR `#133`)*
+- **Open Source Contributor** — **[OWASP Foundation](https://github.com/OWASP/owasp-ctf-in-a-box/pull/760)** *(Nov 2026 · Merged PR `#760`)*
+  - Aligned challenge and quiz submission rate-limiting with RFC 6585/7231 by returning HTTP `429 Too Many Requests` and standard `Retry-After` headers. Refactored client error handling and ensured 153 passing Vitest tests.
+
+- **Open Source Contributor** — **[Grafana Labs](https://github.com/grafana/grafana-canvas-panel/pull/133)** *(Nov 2026 · Merged PR `#133`)*
   - Fixed `TextEdit` undefined `instanceState.selected` initialization crash and React 18 `StrictMode` RxJS `Subject` cleanup issues across `7` files (`+306/-20`), accompanied by Jest & Playwright E2E tests.
 
 - **Post-Training LLM / AI Engineer Intern** — **Ethara AI** *(July 2026 · Remote, India)*
   - Contributed to post-training LLM testing pipelines, structured JSON quality rubrics, and asynchronous Python FastAPI evaluation microservices.
+
+---
+
+### 🌐 Open-Source Contributions & Production Engineering
+
+Active contributor to tier-1 developer tools, cybersecurity infrastructure, and ecosystem engines:
+
+| Organization / Project | Tech Stack | Contribution & Engineering Highlights | Pull Request & Status |
+| :--- | :--- | :--- | :---: |
+| **[OWASP Foundation](https://github.com/OWASP)** <br> `owasp-ctf-in-a-box` | TypeScript, Next.js, HTTP Standards, Vitest | **HTTP 429 Cooldown Standardization:** Aligned challenge and quiz submission rate-limiting with RFC 6585/7231; added standard `Retry-After` calculation; decoupled client event handlers with 153 passing Vitest tests. | [![Merged](https://img.shields.io/badge/PR_%23760-MERGED-success?style=flat-square&logo=github)](https://github.com/OWASP/owasp-ctf-in-a-box/pull/760) |
+| **[Grafana Labs](https://github.com/grafana)** <br> `grafana-canvas-panel` | React 18, TypeScript, Grafana SDK, Jest | **React 18 StrictMode Lifecycle Guard:** Resolved `Cannot read properties of undefined` crash on unmounting inline editors; added defensive optional chaining, re-subscribed eventBus listeners in `componentDidMount`, and added Jest regression suites. | [![Merged](https://img.shields.io/badge/PR_%23133-MERGED-success?style=flat-square&logo=github)](https://github.com/grafana/grafana-canvas-panel/pull/133) |
+| **[Flutter / Google](https://github.com/flutter)** <br> `flutter/flutter` (181k★) | Dart, CLI Systems, TTY Architecture | **Process Stdio Inheritance & DI Architecture:** Restored ANSI colors and spinners in `flutter pub outdated`; refactored `Pub` factory to prevent production callers from hitting test mode, adding `@visibleForTesting` dependency injection (reviewed by Google Staff Engineer Ben Konyi). | [![Under Review](https://img.shields.io/badge/PR_%23196447-UNDER_REVIEW-yellow?style=flat-square&logo=github)](https://github.com/flutter/flutter/pull/196447) |
+| **[Taranis AI](https://github.com/taranis-ai)** <br> `taranis-ai` | Python 3, Flask, SQLAlchemy 2.0, Pytest | **EAV Story Attribute & Revision Sanitization:** Fixed data leakage where detaching intelligence stories left orphaned IDs in custom `STORY` report attributes; extracted shared ID parser and added integration tests for the #1236 multi-story ungroup workflow. | [![Under Review](https://img.shields.io/badge/PR_%231267-UNDER_REVIEW-yellow?style=flat-square&logo=github)](https://github.com/taranis-ai/taranis-ai/pull/1267) |
+| **[Cal.com](https://github.com/calcom)** <br> `cal.diy` (50k★) | TypeScript, Node.js, Timezone Math, Vitest | **UTC Activity Timestamp Normalization:** Fixed a multi-hour timezone drift in Pipedrive CRM integration by normalizing `due_date` and `due_time` from UTC ISO strings across midnight boundaries; covered by comprehensive Vitest suites. | [![Under Review](https://img.shields.io/badge/PR_%2330568-UNDER_REVIEW-yellow?style=flat-square&logo=github)](https://github.com/calcom/cal.diy/pull/30568) |
 
 ---
 
@@ -53,6 +71,7 @@ Software Engineer (**B.Tech IT, NIET Greater Noida — Graduated June 2026, CGPA
 | Project | Tech Stack | Highlights | Link |
 | :--- | :--- | :--- | :---: |
 | **Alarm Breaker: Challenge Alarm** | Flutter, Dart, Riverpod, Drift SQLite, Google ML Kit, Kotlin, Firebase, Appwrite | Live Google Play app (`com.wakeforge.wakeforge`) with 10 challenge modes, Doze-resilient native Kotlin alarm services, social voice dares, and **164 test files**. | [Google Play Store](https://play.google.com/store/apps/details?id=com.wakeforge.wakeforge) · [Media Pipeline](https://github.com/VaibhavBajpaij/alarm-breaker-media) |
+| **OWASP CTF in a Box (PR #760)** | TypeScript, Next.js, HTTP Standards, Vitest | Merged upstream standardization of HTTP `429 Too Many Requests` & `Retry-After` header for cooldown timers (closed Issue #753). | [Merged PR #760](https://github.com/OWASP/owasp-ctf-in-a-box/pull/760) |
 | **Grafana Canvas Panel (PR #133)** | TypeScript, React 18, RxJS, Jest, Playwright | Merged upstream fix for `TextEdit` state initialization and `StrictMode` RxJS subscription teardown (`+306/-20`, `7` files). | [Merged PR #133](https://github.com/grafana/grafana-canvas-panel/pull/133) |
 | **Food Intelligence AI Engine** | Python, PaddleOCR (PP-OCRv4), SQLite, Pydantic, Pytest, JSON Schema | Offline 8-stage food label OCR & nutrition evaluation pipeline indexing **85,000+** Open Food Facts, USDA FDC, and IFCT records with unit & integration tests. | [Source Code](https://github.com/VaibhavBajpaij/packege_Food_Scanner) |
 | **RAG PDFBot V3** | Python, FastAPI, LangChain, Vector Store, Streamlit | Decoupled async FastAPI `server/` + Streamlit `client/` architecture for PDF chunking, vector indexing, and `/chat` querying. | [Source Code](https://github.com/VaibhavBajpaij/RAGbot_using-fastAPI) |
